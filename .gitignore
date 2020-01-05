@@ -3,6 +3,7 @@
 ### Example user template
 
 # IntelliJ project files
+Test
 .idea
 *.iml
 out
@@ -136,3 +137,7 @@ dmypy.json
 
 ### Example user template template
 ### Example user template
+main.py
+models.py
+news.db
+template.py
